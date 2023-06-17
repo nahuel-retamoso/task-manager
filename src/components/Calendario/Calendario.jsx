@@ -5,3 +5,5 @@ const Calendario = () => {
         </div>
     );
 }
+
+export default Calendario;

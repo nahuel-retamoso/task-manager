@@ -5,3 +5,5 @@ const Bienestar = () => {
         </div>
     )
 }
+
+export default Bienestar;

@@ -5,3 +5,5 @@ const Agenda = () => {
         </div>
     );
 }
+
+export default Agenda;
