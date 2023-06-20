@@ -1,12 +1,13 @@
-import Home from './components/Home/Home'
-import Navbar from './components/Navbar/Navbar'
+import Home from './components/Home/Home';
+import Navbar from './components/Navbar/Navbar';
+import './App.css';
 
 function App() {
   return (
-    <div>
+    <div className='main-container'>
       <h1>Task manager</h1>
-      <Navbar />
       <Home />
+      <Navbar />
     </div>
   )
 }

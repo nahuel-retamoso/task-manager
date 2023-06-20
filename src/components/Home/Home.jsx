@@ -1,4 +1,5 @@
 import TaskListItem from "../TaskListItem/TaskListItem";
+import './Home.css'
 
 const Home = () => {
     return (
