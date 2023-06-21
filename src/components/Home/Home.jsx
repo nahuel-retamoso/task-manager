@@ -6,6 +6,8 @@ const Home = () => {
         <div>
             <h1>Home</h1>
             <TaskListItem />
+            <TaskListItem />
+            <TaskListItem />
         </div>
     )
 };
